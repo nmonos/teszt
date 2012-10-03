@@ -9,7 +9,7 @@ header("Expires: Mon, 26 Jul 1997 05:00:00 GMT");
 <html>
 
 <head>
-  <title>Google címkereső</title>
+  <title>Google címkereső GITHUB TESZT</title>
   <meta name="cache-control" content="private, no-store, no-cache, must-revalidate" />
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false&language=hu&region=HU"></script>
